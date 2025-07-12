@@ -36,7 +36,7 @@ The dataset includes order-level sales information for Adidas across:
 - States & regions
 - Sales volume, profit, and units sold
 
- **Source**: [Kaggle – Adidas US Sales Dataset](https://www.kaggle.com/datasets/whenamancodes/adidas-us-retail-sales-dataset)
+ **Source**:  [Kaggle – Adidas US Sales](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales)  
 
 ---
 
