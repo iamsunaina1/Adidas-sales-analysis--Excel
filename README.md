@@ -63,11 +63,11 @@ The dataset includes order-level sales information for Adidas across:
 
 ##  Dashboard Preview
 
-![Adidas Sales Dashboard](images/adidas_sales_dashboard.png)
+![Adidas Sales Dashboard](https://github.com/iamsunaina1/Adidas-sales-analysis--Excel/blob/main/snapshot%20of%20the%20dashboard%20(2).png)
 
 ---
 
-## 📥 How to Use
+##  How to Use
 
 1. Download the `.xlsx` file from this repository (`Adidas US Sales Dataset.xlsx`).
 2. Open in Microsoft Excel (Office 2016 or later recommended).
