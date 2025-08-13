@@ -79,7 +79,7 @@ The dataset includes order-level sales information for Adidas across:
 ##  Author
 
 **Sunaina** – Aspiring Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-p-a-9704ba372/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sunaina-pa/)  
 📬 [GitHub Portfolio](https://github.com/iamsunaina1)
 
 ---
